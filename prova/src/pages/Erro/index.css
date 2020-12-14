@@ -1,0 +1,22 @@
+.pageE{
+    width: 300px;
+}
+.fort{
+    display:grid;
+    justify-content: center;
+    background: black;
+    padding-bottom: 200px;
+    padding-top:200px;
+    text-align: center;
+}
+.fort h1{
+    color: yellow;
+}
+.vl{
+    color: black;
+    background: yellow;
+    border-radius: 10px;
+    margin:none;
+    cursor: pointer;
+    padding: 20px;
+}

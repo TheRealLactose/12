@@ -1,0 +1,21 @@
+.bo{
+    border: none;
+}
+.bo li{
+    list-style: none;
+    margin:20px ;
+    cursor: pointer;
+}
+.bo ul{
+   display: flex;
+   margin: 30px;
+}
+.all{
+    display: flex;
+    justify-content:space-around;
+    background: yellow;
+    border: solid 3px black;
+}
+.znitsu{
+    width: 100px;
+}

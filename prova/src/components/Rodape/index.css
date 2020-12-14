@@ -1,0 +1,37 @@
+.all2{
+    display: flex;
+    justify-content: space-evenly;
+    background: black;
+    border: solid 2px yellow;
+}
+.fb{
+    width: 50px;
+    margin: 10px;
+}
+.tt{
+    width: 40px;
+    margin: 10px;
+    position: relative;
+    bottom: 5px;
+}
+.ig{
+    width: 35px;
+    margin: 10px;
+    position: relative;
+    bottom: 5px;
+}
+.espadao{
+    width: 150px;
+}
+.contatos li{
+    color: yellow;
+ }
+ .cp{
+    background: yellow;
+    margin: none;
+    text-align: center;
+
+} 
+.alll{
+    margin: none;
+}
